@@ -1,0 +1,15 @@
+img{
+    height: 85px;
+    width: 85px;
+}
+.bothmove{
+    align-items: center;
+    padding: 2rem;
+}
+.bothmove img{
+    display: flex;
+    align-items: center;
+}
+button{
+    align-items: center;
+}
