@@ -21,4 +21,4 @@ This is a simple web-based implementation of the classic game "Rock, Paper, Scis
 
 ## Demo
 
-You can play the game online [here](#) (Insert link to the hosted game).
+You can play the game online [ https://software-lab-project.github.io/Project/](#) 
