@@ -10,7 +10,6 @@ This is a simple web-based implementation of the classic game "Rock, Paper, Scis
 - JavaScript: For game logic and interactivity.
 - Git: For version control.
 - GitHub Pages: For hosting the game online.
-- 
 ## How to Play
 
 1. Open the game in a web browser.
